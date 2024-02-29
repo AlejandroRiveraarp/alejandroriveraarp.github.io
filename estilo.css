@@ -12,7 +12,7 @@ html{
 /*seccion inicio*/
 .inicio{
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), 
-    url("imagenes/tokio-japon-paisaje-urbano-filtrada-imagen-procesada-efecto-vendimia.jpg");
+    url("imagenes/tokiojapon3m.jpg");
     background-size: cover;
     background-position: center center;
     color: whitesmoke;
