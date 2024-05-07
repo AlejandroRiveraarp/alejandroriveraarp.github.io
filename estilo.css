@@ -126,7 +126,7 @@ html{
     position: relative;
 }
 .inicio .contenido-seccion .foto img{
-    max-width: 200px;
+    max-width: 500px;
     border-radius: 50%;
     border: 5px solid whitesmoke;
     position: absolute;
