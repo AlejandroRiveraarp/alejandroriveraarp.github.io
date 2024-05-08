@@ -23,7 +23,7 @@ html{
 /*seccion inicio*/
 .inicio{
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), 
-    url("imagenes/tokiojaponcompirmido2024.jpg");
+    url("imagenes/tokiojapon2024.jpg");
     background-size: cover;
     background-position: center center;
     color: whitesmoke;
