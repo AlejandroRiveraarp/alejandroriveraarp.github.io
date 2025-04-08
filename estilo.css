@@ -364,6 +364,11 @@ html{
     color: lightblue;
 }
 
+a {
+  color: white;
+  text-decoration: none; /* Opcional: quita el subrayado */
+}
+
 /* SECCION RESPOSIVO */
 
 @MEDIA screen and (max-width:800px){
