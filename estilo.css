@@ -80,7 +80,7 @@ html{
     height: 50px;
     border-radius: 50%;
     line-height: 50px;
-    cursor: ;
+    cursor: pointer;
     transition: .3s;
 }
 
